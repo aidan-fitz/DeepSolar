@@ -1,6 +1,7 @@
 SPI_eval/
 SPI_train/
 SPI_val/
+ckpt/
 *.pickle
 
 # Byte-compiled / optimized / DLL files
